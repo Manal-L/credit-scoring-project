@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/credit-scoring-project/models/mlruns/208211513410033270/4723a51ef4094da09ff22fd85d00b0b1/artifacts
+end_time: 1728903619626
+entry_point_name: ''
+experiment_id: '208211513410033270'
+lifecycle_stage: active
+run_id: 4723a51ef4094da09ff22fd85d00b0b1
+run_name: skillful-stork-87
+run_uuid: 4723a51ef4094da09ff22fd85d00b0b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728903601636
+status: 3
+tags: []
+user_id: HP
